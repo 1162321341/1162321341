@@ -1,6 +1,9 @@
 ### Hi there 👋
 <a href=#><img src="github-user-contribution.svg"></a>
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/1162321341/count.svg" />
+</p>
 <!--
 **1162321341/1162321341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
