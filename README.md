@@ -18,6 +18,17 @@
 ![梦吟夜微凉's github stats](https://github-readme-stats.vercel.app/api?username=1162321341&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 ![主要使用语言](https://api.githubtrends.io/user/svg/1162321341/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=dark)
 <a href=#><img src="./github-contribution-grid-snake.svg"></a>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=joesdu&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joesdu&hide_title=false&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn&count_private=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=joesdu&theme=monokai&column=8&no-frame=true&no-bg=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <!--<source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />-->
+    <img alt="github-snake" src="dist/github-snake.svg" />
+  </picture>
+</p>
 <!--<div align="center"><img src="https://cdn.jsdelivr.net/gh/1162321341/1162321341/assets/github-contribution-grid-snake.svg" /></div>-->
 
 
