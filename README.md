@@ -26,6 +26,12 @@
   <a href="https://github.com/1162321341">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1162321341&theme=transparent" />
   </a>
+  <a href="https://github.com/1162321341">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=1162321341&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/1162321341">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=1162321341&theme=transparent" />
+  </a>
 </p>
 <!--<div align="center"><img src="https://cdn.jsdelivr.net/gh/1162321341/1162321341/assets/github-contribution-grid-snake.svg" /></div>-->
 
